@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Kata tests": "github:jotitan/microbit-tests-kata#edfee6449b56d423d295eaaa5e2d76ed0c197867"
+        "Kata tests": "github:jotitan/microbit-tests-kata#aa74605e18691ce4e6e531fced2499b6c4720778"
     },
     "files": [
         "main.blocks",

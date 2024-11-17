@@ -17,7 +17,8 @@ input.onButtonPressed(Button.B, () => {
 function getTest(){
     switch(counter){
         case 0 : return new Test1();
-        case 1: return new Test2();
+        case 1 : return new Test2();
+        case 2 : return new Test3();
     }
     return null;
 }
